@@ -2,5 +2,5 @@
 	"ip":"NyTSMP.aternos.me",
 	"port": "25565",
 	"name": "pqpito",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
